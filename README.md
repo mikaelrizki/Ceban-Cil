@@ -31,6 +31,8 @@ Tugas Akhir Mata Kuliah Kecerdasan Buatan Grup A
 ### About This Repo
 - Raw Version : main.py
 - Project Documentation : documentation.ipynb
+- Datasheet (JSON) : data.json
+- Datasheet (Excel) : Datasheet.xlsx
 - Web Application : index.php
 - Laporan : Laporan TA AI Kelompok 5.pdf
 - Readme.md
