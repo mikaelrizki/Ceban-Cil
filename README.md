@@ -34,6 +34,7 @@ Early Warning System for Flooding in Ciliwung River - Tugas Akhir Mata Kuliah Ke
 - Datasheet (JSON) : data.json
 - Datasheet (Excel) : Datasheet.xlsx
 - Web Application : index.php
+- Link Video : Link Video.txt
 - Laporan : Laporan TA AI Kelompok 5.pdf
 - Readme.md
 
