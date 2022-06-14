@@ -22,7 +22,7 @@ Early Warning System for Flooding in Ciliwung River - Tugas Akhir Mata Kuliah Ke
 ### This Project Information
 - Project Version : v2
 - Upload Date     : 14 June 2022
-- Project Link    : [https://mikaelrizki.github.io/Workout-Tube/]
+- Project Link    : [https://mikaelrizki.github.io/Ceban-Cil/]
 
 ### About Our Project
 - Raw Version made with Python 3.10.
