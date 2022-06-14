@@ -30,10 +30,11 @@ Tugas Akhir Mata Kuliah Kecerdasan Buatan Grup A
 
 ### About This Repo
 - Raw Version : main.py
+- Project Documentation : documentation.ipynb
 - Web Application : index.php
 - Laporan : Laporan TA AI Kelompok 5.pdf
 - Readme.md
-- 
+
 ### Checkout Project
 
 ```bash
@@ -54,7 +55,7 @@ $ git submodule update --remote
 - Stackoverflow : https://stackoverflow.com/
 - GeeksForGeeks : https://www.geeksforgeeks.org/
 
-### Version History
+### Our Datasheet
 - Library json akan digunakan untuk membaca _datasheet_ dalam bentuk JSON.
 - _Datasheet_ tersebut kami peroleh dari Kaggle. 
 - Berikut adalah sumber referensi _datasheet_ yang kami gunakan :
